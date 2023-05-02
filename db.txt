@@ -1,0 +1,25 @@
+common_name = ""
+other_names = []
+IUPAC = ""
+MOA = ""
+class = []
+related = []
+interactions = [
+    {
+        effect: "death",
+        with: "compoundhere"
+    }
+]
+md = Markdown
+
+
+LATER
+
+smiles = ""
+estimated_half_life = ""
+dosages = [
+    {
+        roa: "Intranasal",
+        dose: ""
+    }
+]
