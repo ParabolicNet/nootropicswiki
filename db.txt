@@ -4,12 +4,6 @@ IUPAC = ""
 MOA = ""
 class = []
 related = []
-interactions = [
-    {
-        effect: "death",
-        with: "compoundhere"
-    }
-]
 md = Markdown
 
 
@@ -21,5 +15,11 @@ dosages = [
     {
         roa: "Intranasal",
         dose: ""
+    }
+]
+interactions = [
+    {
+        effect: "death",
+        with: "compoundhere"
     }
 ]
