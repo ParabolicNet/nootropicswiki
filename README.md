@@ -1,3 +1,3 @@
 # nootropicswiki.org
 
-**The goal is to document every compound.**
+**A crude first version of the NootropicsWiki to get all relevant information into one place.**
