@@ -18,7 +18,7 @@
         <h2>The Nootropics Wiki</h2>
   
         <p style="max-width:300px;">
-        A crude first version of the Nootropics Wiki to get all relevant information into one place.<!-- Sponsored by <a href="https://neuroregen.org" target="_blank">neuroregen</a>.-->
+        A crude first version of the Nootropics Wiki to get all relevant information into one place. <a href="https://github.com/ParabolicNet/nootropicswiki">Contribute</a><!-- Sponsored by <a href="https://neuroregen.org" target="_blank">neuroregen</a>.-->
         </p>
         <div style="width:292.4px;">
             <input type="text" id="search_query" bind:value={search_query} on:keyup={() => update_results()} placeholder="Search for nootropics ({Object.keys(compounds).length})"/>
