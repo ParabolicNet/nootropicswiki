@@ -15,11 +15,15 @@
                 <a href="/">Back to Main Page</a><br><br>
                 <h1 style="margin:0;">{compound.name}</h1>
 
+                {#if compound.moa}
                 <h2>Primary MOA</h2>
                 <p>{compound.moa}</p>
+                {/if}
 
-                <h2>IUPAC</h2>
+                {#if compound.iupac}
+                <h2>IUPAC <span style="font-size: 15px;"> {#if compound.pubchem_id} (<a target="_blank" href="https://pubchem.ncbi.nlm.nih.gov/compound/{compound.pubchem_id}">PubChem</a>){/if}</span></h2>
                 <small>{compound.iupac}</small>
+                {/if}
 
                 <h2>Class</h2>
                 <p>
