@@ -8,7 +8,30 @@ Run the project: `npm run dev`
 
 ## Adding a Compound
 
-Each compound has an associated entry in `src/data.js` and an associated markdown file entry in `src/compounds/`. The markdown file must be imported at the top of `src/data.js` when referenced in the object entry.
+Each compound has an associated entry in `src/data.js` and an associated markdown file entry in `src/compounds/`.
+
+The markdown file must be imported at the top of `src/data.js` when referenced in the object entry.
+
+Blank entry (for copying):
+
+```js
+"": {
+    name: "",
+    iupac: "",
+    pubchem_id: "",
+    smiles: "",
+    other_names: [
+        ""
+    ],
+    moa: "",
+    class: [
+        ""
+    ],
+    related: [],
+    interactions: [],
+    md: replaceme
+}
+```
 
 Example entry:
 
@@ -31,27 +54,6 @@ Example entry:
     ],
     interactions: [], // Keep this empty (for now)
     md: md_tak_653 // The name of the markdown file reference
-}
-```
-
-Blank entry (for copying):
-
-```js
-"compound-42": {
-    name: "",
-    iupac: "",
-    pubchem_id: "",
-    smiles: "",
-    other_names: [
-        ""
-    ],
-    moa: "",
-    class: [
-        ""
-    ],
-    related: [],
-    interactions: [],
-    md: replaceme
 }
 ```
 

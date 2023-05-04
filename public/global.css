@@ -37,8 +37,6 @@ body {
 
 .content {
 	max-width: 800px;
-	padding-left: 15px;
-	padding-right: 15px;
 }
 
 .card {
@@ -99,6 +97,18 @@ input[type="text"]:focus {
 	padding-top: 0.6em;
 	padding-bottom: 0.6em;
 	padding-left: 1.2em;
+}
+
+.linkref {
+	height: 25px;
+	margin-left: 5px;
+	margin-bottom: -5px;
+	filter: invert(0.3);
+	transition: 0.3s;
+}
+
+.linkref:hover {
+	filter: invert(0.9);
 }
 
 @font-face {

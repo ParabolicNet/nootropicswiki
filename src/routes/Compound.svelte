@@ -8,7 +8,7 @@
 
 </script>
 
-<main>
+<main style="padding-left: 15px;padding-right: 15px;">
     <div class="gentle-flex">
         <div class="content" style="width:100%;">
             <div class="compound-attributes">
@@ -21,7 +21,7 @@
                 {/if}
 
                 {#if compound.iupac}
-                <h2>IUPAC <span style="font-size: 15px;"> {#if compound.pubchem_id} (<a target="_blank" href="https://pubchem.ncbi.nlm.nih.gov/compound/{compound.pubchem_id}">PubChem</a>){/if}</span></h2>
+                <h2>IUPAC <span style="font-size: 15px;"> {#if compound.pubchem_id} (<a title="Visit PubChem Compound {compound.pubchem_id}" target="_blank" href="https://pubchem.ncbi.nlm.nih.gov/compound/{compound.pubchem_id}">PubChem</a>){/if}</span></h2>
                 <small>{compound.iupac}</small>
                 {/if}
 
@@ -32,6 +32,22 @@
             </div>
             <br><hr>
             <Markdown markdown={compound.md} />
+            {#if compound.sources}
+            <h2 id="sources">Sources <a href="#sources"><img alt="[link]" src="/images/link.svg" class="linkref"></a></h2>
+            {#each Object.keys(compound.sources) as source, i}
+                <div style="margin-bottom:15px;">
+                {#if compound.sources[source].url != ""}<a title="Visit Source {source} ({compound.sources[source].url})" target="_blank" id="source{source}" rel="noreferrer" href="{compound.sources[source].url}">[ {source} ]</a>{/if}
+                {#if compound.sources[source].sci_ref != ""}<a title="Visit {compound.sources[source].sci_ref} on Sci-Hub" target="_blank" id="source{source}" rel="noreferrer" href="https://sci-hub.hkvisa.net/{compound.sources[source].sci_ref}">[{#if compound.sources[source].url == ""}{source}{/if} - Sci-Hub]</a>{/if}
+                
+                {#if compound.sources[source].extract}
+                    "{compound.sources[source].extract}"
+                {:else}
+                    {compound.sources[source].title}
+                {/if}
+                <a href="#source{source}"><img alt="[link]" src="/images/link.svg" class="linkref"></a>
+                </div>
+            {/each}
+            {/if}
         </div>
     </div>
 </main>

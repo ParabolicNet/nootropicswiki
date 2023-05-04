@@ -25,11 +25,11 @@
             <div class="search-results" style="background-color: #141414;border-radius: 0px 0px 8px 8px;">
             {#if search_query == "" || results.length == sorted_compounds.length}
               {#each sorted_compounds as codename}
-              <a href="details/{codename}"><div class="result-link">{compounds[codename].name} [{compounds[codename].moa}]</div></a>
+              <a title="More details about {compounds[codename].name}" href="details/{codename}"><div class="result-link">{compounds[codename].name}</div></a>
               {/each}
             {:else}
               {#each results as codename, num}
-                  <a href="details/{codename}"><div class="result-link">{compounds[codename].name}</div></a>
+                  <a title="More details about {compounds[codename].name}" href="details/{codename}"><div class="result-link">{compounds[codename].name} [{compounds[codename].moa}]</div></a>
               {/each}
             {/if}
             </div>

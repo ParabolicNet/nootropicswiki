@@ -20,6 +20,7 @@
 			compound_code={params.compound}
 		/>
 	</Route>
+
 	<Route path="*">
 		404
 	</Route>

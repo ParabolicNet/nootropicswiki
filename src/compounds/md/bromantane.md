@@ -1,8 +1,11 @@
+<span id="mechanism-of-action"></span>
 ## Mechanism of Action
+
+Bromantane is a compound that upregulates dopamine, with effects lasting after discontinuation.
 
 Bromantane’s mechanism of action primarily involves enhancing dopamine synthesis through upregulation of key enzymes tyrosine hydroxylase (TH) and aromatic L-amino acid decarboxylase (AAAD) via indirect genomic pathways. Bromantane elevates cAMP response element-binding protein (CREB), which disinhibits TH (usually blocked by dopamine), leading to increased dopamine synthesis.
 
-Additionally, Bromantane is hypothesized to act as a Kir2.1 channel inhibitor, stabilizing indirect pathway medium spiny neurons (IMSNs) and preventing aberrant synaptogenesis. Moreover, Bromantane reduces inflammatory cytokines and inhibits histone deacetylase (HDAC), upregulating neurotrophins like brain-derived neurotrophic factor (BDNF) and glial cell-derived neurotrophic factor (GDNF), contributing to its neuroprotective effects.
+Additionally, Bromantane is hypothesized to act as a Kir2.1 channel inhibitor (but MOA is unknown), stabilizing indirect pathway medium spiny neurons (IMSNs) and preventing aberrant synaptogenesis. Moreover, Bromantane reduces inflammatory cytokines and inhibits histone deacetylase (HDAC), upregulating neurotrophins like brain-derived neurotrophic factor (BDNF) and glial cell-derived neurotrophic factor (GDNF), contributing to its neuroprotective effects.
 
 ## Studies
 
