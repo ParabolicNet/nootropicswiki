@@ -1,4 +1,4 @@
-import {compounds} from "./data.js";
+import {compounds} from "./compounds/data.js";
 
 export const search = (query) => {
     // Wipe previous results

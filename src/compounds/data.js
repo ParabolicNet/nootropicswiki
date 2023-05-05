@@ -1,8 +1,8 @@
-import md_bromantane from "./compounds/md/bromantane.md";
-import md_tak_653 from "./compounds/md/tak-653.md";
-import md_neboglamine from "./compounds/md/neboglamine.md";
+import md_bromantane from "./md/bromantane.md";
+import md_tak_653 from "./md/tak-653.md";
+import md_neboglamine from "./md/neboglamine.md";
 
-import replaceme from "./compounds/md/_placeholder.md";
+import replaceme from "./md/_placeholder.md";
 
 export const compounds = {
     "bromantane": {
@@ -104,7 +104,7 @@ export const compounds = {
                 title: "Bromantane (NP-160) Exhibited Potent Anti-Fibrotic Activity in NASH and CKD Studies",
                 extract: "",
                 sci_ref: "",
-                url: "https://www.sciencedirect.com/science/article/abs/pii/S0028390807002109"
+                url: "https://www.globenewswire.com/news-release/2019/07/31/1894580/0/en/Algernon-Pharmaceuticals-Announces-Russian-Athletic-Performance-Enhancing-Drugs-Bemethyl-NP-135-and-Bromantane-NP-160-Exhibited-Potent-Anti-Fibrotic-Activity-in-NASH-and-CKD-Studie.html"
             },
         },
         md: md_bromantane

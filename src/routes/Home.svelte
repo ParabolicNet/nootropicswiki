@@ -1,16 +1,10 @@
 <script>
-    import {compounds} from "../data.js";
-    import {search} from "../search.js";
-    let sorted_compounds = Object.keys(compounds).sort();
-
-    let search_query = "";
-    let results = [];
-
-    const update_results = () => {
-        results = search(search_query);
-        results = results;
-    }
+    import {compounds} from "../compounds/data.js";
+    import Seo from "./_Seo.svelte";
+    import SearchBox from "./_SearchBox.svelte";
 </script>
+
+<Seo title="The Nootropics Wiki" />
 
 <main>
     <div class="gentle-flex">
@@ -20,21 +14,11 @@
         <p style="max-width:300px;">
         A crude first version of the Nootropics Wiki to get all relevant information into one place. <a href="https://github.com/ParabolicNet/nootropicswiki">Contribute</a><!-- Sponsored by <a href="https://neuroregen.org" target="_blank">neuroregen</a>.-->
         </p>
-        <div style="width:292.4px;">
-            <input type="text" id="search_query" bind:value={search_query} on:keyup={() => update_results()} placeholder="Search for nootropics ({Object.keys(compounds).length})"/>
-            <div class="search-results" style="background-color: #141414;border-radius: 0px 0px 8px 8px;">
-            {#if search_query == "" || results.length == sorted_compounds.length}
-              {#each sorted_compounds as codename}
-              <a title="More details about {compounds[codename].name}" href="details/{codename}"><div class="result-link">{compounds[codename].name}</div></a>
-              {/each}
-            {:else}
-              {#each results as codename, num}
-                  <a title="More details about {compounds[codename].name}" href="details/{codename}"><div class="result-link">{compounds[codename].name} [{compounds[codename].moa}]</div></a>
-              {/each}
-            {/if}
-            </div>
-            {#if results.length == 0 && search_query.length != 0} ... {/if}
-          </div>
+
+        <SearchBox />
+
+        <br>
+        <a href="/article/learn-pharma">Article Example - Learn pharma</a>
     </div>
     </div>
 </main>

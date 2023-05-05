@@ -56,10 +56,12 @@ Example entry:
     md: md_tak_653 // The name of the markdown file reference
 }
 ```
+When adding titles to the md file, add an associated span with an id so it can be referenced.
 
 Example markdown entry (.md):
 
 ```md
+<span id="mechanism-of-action"></span>
 ## Mechanism of Action
 
 (Detailed explanation of how the compound works and what receptors it modulates. Refer to sources often)

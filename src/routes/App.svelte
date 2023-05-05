@@ -1,8 +1,8 @@
 <script>
 	import { Router, Route } from "svelte-navigator";
-	import {compounds} from "../data.js";
 	import Home from "./Home.svelte";
 	import Compound from "./Compound.svelte";
+	import Article from "./Article.svelte";
 </script>
 
 <Router primary={false}>
@@ -18,6 +18,12 @@
 	<Route path="details/:compound" let:params>
 		<Compound
 			compound_code={params.compound}
+		/>
+	</Route>
+
+	<Route path="article/:article" let:params>
+		<Article
+			article_code={params.article}
 		/>
 	</Route>
 
