@@ -7,6 +7,7 @@ import livereload from 'rollup-plugin-livereload';
 import css from 'rollup-plugin-css-only';
 import { string } from 'rollup-plugin-string';
 import json from '@rollup/plugin-json';
+import nodePolyfills from 'rollup-plugin-polyfill-node';
 
 const production = !process.env.ROLLUP_WATCH;
 
@@ -42,6 +43,7 @@ export default {
 	},
 	plugins: [
 		json(),
+		nodePolyfills( /* options */ ),
 		svelte({
 			compilerOptions: {
 				// enable run-time checks when not in production
