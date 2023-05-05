@@ -17,7 +17,7 @@
 
 <div style="width:292.4px;">
     <form on:submit|preventDefault={() => {if(results.length == 1) { window.location = "/details/"+results[0] }}}>
-      <input type="text" id="search_query" bind:value={search_query} on:keyup={() => update_results()} placeholder="Search for nootropics ({Object.keys(compounds).length})"/>
+      <input style="width:252px;" type="text" id="search_query" bind:value={search_query} on:keyup={() => update_results()} placeholder="Search for nootropics ({Object.keys(compounds).length})"/>
     </form>
     <div class="search-results" style="max-height: {height}px">
     {#if search_query == "" || results.length == sorted_compounds.length}

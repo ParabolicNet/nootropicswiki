@@ -5,7 +5,7 @@
 
 	color: rgba(255, 255, 255, 0.87);
 	--color: rgba(255, 255, 255, 0.87);
-	background-color: #242424;
+	background-color: #222324;
 
 	-webkit-text-size-adjust: 100%;
 }
@@ -37,11 +37,11 @@ body {
 	padding-top: 10px;
 	min-width: 320px;
 	min-height: 100vh;
-	background-color: #242424;
+	background-color: #222324;
 }
 
 .content {
-	max-width: 800px;
+	max-width: 850px;
 }
 
 .card {
@@ -126,7 +126,7 @@ input[type="text"]:focus {
 .search-results {
 	background-color: #141414;
 	border-radius: 0px 0px 8px 8px;
-	overflow: scroll;
+	overflow-y: auto;
 }
 
 @font-face {

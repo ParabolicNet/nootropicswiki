@@ -348,6 +348,12 @@ export const compounds = {
                 extract: "",
                 sci_ref: "",
                 url: "https://psycnet.apa.org/record/2002-17820-007"
+            },
+            "13": {
+                title: "Sports genetics: the PPARA gene and athletes’ high ability in endurance sports. A systematic review and meta-analysis",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786580/"
             }
         },
         md: md_pinealon
