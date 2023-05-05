@@ -1,0 +1,27 @@
+<span id="mechanism-of-action"></span>
+## Mechanism of Action
+
+Pinealon, also known as "EDR" is a tripeptide composed of Glu-Asp-Arg, with a molecular weight of 418.41. It was originally isolated from cortexin <a title="EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer’s Disease" class="ref" href="#source1">[1]</a>, indicating that it is naturally present in bovine or porcine cortex, specifically those less than 1 year old.
+
+It is perhaps the single most powerful peptide in existence (currently known) for improving cognition and performance in healthy people, as well as exerting potent geroprotective and neuroregenerative effects, even completely restoring damage from Alzheimer's disease <a title="EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer’s Disease" class="ref" href="#source1">[1]</a><a title="Neuroprotective Effects of Tripeptides—Epigenetic Regulators in Mouse Model of Alzheimer’s Disease" class="ref" href="#source3">[3]</a> and Huntingtons disease in vitro <a title="For the Glu-Asp-Arg, Ala-Glu-AspGly, and Lys-Glu peptides, binding sites were found in the promoter region of GDF11: the CCTGC, ATTTC, and GCAG motifs, respectively." class="ref" href="#source4">[4]</a>.
+
+Its actions within the body are mediated through ligand binding to various genes, resulting in the enhancement or inhibition of their expression.
+
+Pinealon enhances cognition, memory, mood, TBI recovery, protects from hypoxia, reverses neurodegeneration, and improves physical performance.
+
+### Cognition Enhancement
+
+Examples of cognition increase includes:
+
+- Improved intellectual markers in male wrestlers and older men <a title="Influence of short peptides on brain function" class="ref" href="#source5">[5]</a>
+- Improved rats' performance in the <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Morris_water_navigation_task">water maze</a> in comparison to cortexin <a title="Effect of peptide geroprotectors on the navigation system learning and caspase-3 in brain structures in rats of different age" class="ref" href="#source6">[6]</a>
+- Improved spatial orientation and attention in aging rhesus monkeys while increasing the speed of learning by 1.5x <a title="The influence of the Pinealon tripeptide on the rehabilitation of cognitive functions in the aging process using the example of rhesus monkeys (Macaca mulatta)" class="ref" href="#source7">[7]</a>.
+- Improved mice performance in the <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Morris_water_navigation_task">Morris water maze</a> and was associated with increased Nr2a/Nr2b ratio. The enhanced memory was retained even after streptozotocin-induced diabetes <a title="Effect of Pinealon on Learning and Expression of NMDA Receptor Subunit Genes in the Hippocampus of Rats with Experimental Diabetes" class="ref" href="#source8">[8]</a>.
+
+#### Potential as an Antidepressant
+
+Pinealon only enhances the synthesis of serotonin through TPH1, rather than inhibiting SERT. It may have a low incidence of sexual side effects because TPH1 is expressed in the hypothalamus <a title="Tryptophan hydroxylase 1 Gene" class="ref" href="#source11">[11]</a>, where it's shown to be a potential target to decrease neuroendocrine disruption <a title="Tryptophan Hydroxylase: A Target for Neuroendocrine Disruption" class="ref" href="#source10">[10]</a>. SSRIs decrease rats' performance in the Morris water maze test <a title="Impaired spatial learning in the Morris water maze induced by serotonin reuptake inhibitors in rats" class="ref" href="#source12">[12]</a>, which is used to evaluate spatial memory and learning. SSRIs are generally associated with memory impairments in humans, though not always <a title="Cognitive Function before and during Treatment with Selective Serotonin Reuptake Inhibitors in Patients with Depression or Obsessive-Compulsive Disorder" class="ref" href="#source7">[7]</a>. Pinealon has been shown to improve healthy mice and rats' performance in the water maze test <a title="Effect of peptide geroprotectors on the navigation system learning and caspase-3 in brain structures in rats of different age" class="ref" href="#source6">[6]</a><a title="Effect of Pinealon on Learning and Expression of NMDA Receptor Subunit Genes in the Hippocampus of Rats with Experimental Diabetes" class="ref" href="#source8">[8]</a> and improve some intellectual functions in wrestlers <a title="Influence of short peptides on brain function" class="ref" href="#source5">[5]</a>.
+
+### Longevity Promotion
+
+Pinealon has many potent mechanisms of action for longevity including but not limited to; observed <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/GDF11">GDF11</a> expression increase <a title="For the Glu-Asp-Arg, Ala-Glu-AspGly, and Lys-Glu peptides, binding sites were found in the promoter region of GDF11: the CCTGC, ATTTC, and GCAG motifs, respectively." class="ref" href="#source2">[2]</a>, lowered <a href="https://en.wikipedia.org/wiki/Caspase_3">caspase 3</a> expression <a title="Neuroprotective Effects of Tripeptides—Epigenetic Regulators in Mouse Model of Alzheimer’s Disease" class="ref" href="#source3">[3]</a>, increased irisin, increased HSPA1A, and more.

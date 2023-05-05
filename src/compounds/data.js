@@ -1,6 +1,7 @@
 import md_bromantane from "./md/bromantane.md";
 import md_tak_653 from "./md/tak-653.md";
 import md_neboglamine from "./md/neboglamine.md";
+import md_pinealon from "./md/pinealon.md";
 
 import replaceme from "./md/_placeholder.md";
 
@@ -258,5 +259,97 @@ export const compounds = {
             },
         },
         md: md_neboglamine
-    }
+    },
+    "pinealon": {
+        name: "Pinealon",
+        iupac: "(4S)-4-amino-5-[[(2S)-3-carboxy-1-[[(1S)-1-carboxy-4-(diaminomethylideneamino)butyl]amino]-1-oxopropan-2-yl]amino]-5-oxopentanoic acid",
+        pubchem_id: "10273502",
+        smiles: "C(CC(C(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)O)N)CN=C(N)N",
+        other_names: [
+            "Glu-Asp-Arg"
+        ],
+        moa: "ERK1/2 Activator",
+        class: [
+            "Pro-Cognition",
+            "Pro-Longevity",
+            "Pro-BDNF"
+        ],
+        related: [],
+        interactions: [],
+        sources: {
+            "1": {
+                title: "EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer’s Disease",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795577/"
+            },
+            "2": {
+                title: "",
+                extract: "For the Glu-Asp-Arg, Ala-Glu-AspGly, and Lys-Glu peptides, binding sites were found in the promoter region of GDF11: the CCTGC, ATTTC, and GCAG motifs, respectively.",
+                sci_ref: "",
+                url: "https://link.springer.com/article/10.1134/S207908641602002X"
+            },
+            "3": {
+                title: "Neuroprotective Effects of Tripeptides—Epigenetic Regulators in Mouse Model of Alzheimer’s Disease",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8227791/"
+            },
+            "4": {
+                title: "Neuroprotective Effect of EDR Peptide in Mouse Model of Huntington's Disease",
+                extract: "",
+                sci_ref: "10.21767/2171-6625.1000166",
+                url: ""
+            },
+            "5": {
+                title: "Influence of short peptides on brain function",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.yumpu.com/en/document/view/52954279/prof-galina-ryzhak-st-petersburg-institute-of-bioregulation-and-/6"
+            },
+            "6": {
+                title: "Effect of peptide geroprotectors on the navigation system learning and caspase-3 in brain structures in rats of different age",
+                extract: "",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/28976148/"
+            },
+            "7": {
+                title: "The influence of the Pinealon tripeptide on the rehabilitation of cognitive functions in the aging process using the example of rhesus monkeys (Macaca mulatta)",
+                extract: "",
+                sci_ref: "",
+                url: "http://bulletin.antropos.msu.ru/en/article.php?id=701"
+            },
+            "8": {
+                title: "Effect of Pinealon on Learning and Expression of NMDA Receptor Subunit Genes in the Hippocampus of Rats with Experimental Diabetes",
+                extract: "",
+                sci_ref: "10.1134/S181971242003006X",
+                url: ""
+            },
+            "9": {
+                title: "Cognitive Function before and during Treatment with Selective Serotonin Reuptake Inhibitors in Patients with Depression or Obsessive-Compulsive Disorder",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002481/"
+            },
+            "10": {
+                title: "Tryptophan Hydroxylase: A Target for Neuroendocrine Disruption",
+                extract: "",
+                sci_ref: "10.1080/10937404.2011.578563",
+                url: ""
+            },
+            "11": {
+                title: "Tryptophan hydroxylase 1 Gene",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.proteinatlas.org/ENSG00000129167-TPH1/brain"
+            },
+            "12": {
+                title: "Impaired spatial learning in the Morris water maze induced by serotonin reuptake inhibitors in rats",
+                extract: "",
+                sci_ref: "",
+                url: "https://psycnet.apa.org/record/2002-17820-007"
+            }
+        },
+        md: md_pinealon
+    },
 }
