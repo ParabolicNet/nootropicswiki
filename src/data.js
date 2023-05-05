@@ -21,6 +21,92 @@ export const compounds = {
         ],
         related: [],
         interactions: [],
+        sources: {
+            "1": {
+                title: "",
+                extract: "The absence of 'withdrawal syndrome' after the drug withdrawal reveals the lack of addictive potential in this drug.",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/19491814/"
+            },
+            "2": {
+                title: "Effect of bromantane on the rat neurologic status in two month course",
+                extract: "",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/11109517/"
+            },
+            "3": {
+                title: "Treatment of asthenic disorders in patients with psychoautonomic syndrome: results of a multicenter study on efficacy and safety of ladasten",
+                extract: "",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/21322821/"
+            },
+            "4": {
+                title: "",
+                extract: "Thus, the antiasthenic drug ladasten limits development of the anxious depressive state and suppresses the level ofproinflammatory cytokines IL-6, IL-17 and IL-4.",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/22288152/"
+            },
+            "5": {
+                title: "",
+                extract: "Ladasten reduced HDAC1 level in rat striatum and hippocampus and modified H3acK9 and H4acK8 levels in various structures of rat brain.",
+                sci_ref: "10.1007/s10517-011-1201-7",
+                url: ""
+            },
+            "6": {
+                title: "",
+                extract: "We determined clinical efficacy of ladasten in regard to anxiety-depressive spectrum disorders, autonomic dystonia & sleep disorders.",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/21322821/"
+            },
+            "7": {
+                title: "Effects of bromantane and sidnocarb on long-term operant conditioning and its vegetative correlates in rats",
+                extract: "",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/10934588/"
+            },
+            "8": {
+                title: "",
+                extract: "A three-day treatment with [bromantane] (...) predominantly increased the sexual proceptivity, whereas a chronic administration (for 2 months in males and 2 weeks in females) produced a dose-dependent increase in both proceptivity and receptivity.",
+                sci_ref: "https://pubmed.ncbi.nlm.nih.gov/15341065/",
+                url: ""
+            },
+            "9": {
+                title: "",
+                extract: "The data obtained suggest that the positive effect of bromantan on the physical efficiency is associated not only with its psychostimulating action but also with the membrane-protecting effect.",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/9929819/"
+            },
+            "10": {
+                title: "The neuro- and psychophysiological effects of bromantane",
+                extract: "",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/10998997/"
+            },
+            "11": {
+                title: "Mechanisms of Action of Ladasten: Activation of Gene Expression for Neurotrophins and Mitogen-Activated Kinases",
+                extract: "",
+                sci_ref: "10.1007/s10517-012-1516-z",
+                url: ""
+            },
+            "12": {
+                title: "Mechanisms of Action of Ladasten: Activation of Gene Expression for Neurotrophins and Mitogen-Activated Kinases",
+                extract: "",
+                sci_ref: "10.1007/s10517-012-1516-z",
+                url: ""
+            },
+            "13": {
+                title: "The effects of ladasten on dopaminergic neurotransmission and hippocampal synaptic plasticity in rats",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.sciencedirect.com/science/article/abs/pii/S0028390807002109"
+            },
+            "14": {
+                title: "Bromantane (NP-160) Exhibited Potent Anti-Fibrotic Activity in NASH and CKD Studies",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.sciencedirect.com/science/article/abs/pii/S0028390807002109"
+            },
+        },
         md: md_bromantane
     },
     "tak-653": {
@@ -80,6 +166,18 @@ export const compounds = {
                 sci_ref: "10.1021/acs.jafc.7b04217",
                 url: ""
             },
+            "2": {
+                title: "Acute D-serine treatment produces antidepressant-like effects in rodents.",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278496/"
+            },
+            "3": {
+                title: "Glycine transporter inhibitor attenuates the psychotomimetic effects of ketamine in healthy males: preliminary evidence",
+                extract: "",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/22113087/"
+            },
             "4": {
                 title: "Behavioral and cognitive effects of the N-methyl-D-aspartate receptor co-agonist D-serine in healthy humans: initial findings",
                 extract: "",
@@ -116,12 +214,48 @@ export const compounds = {
                 sci_ref: "",
                 url: "https://academic.oup.com/ijnp/article/12/9/1275/667286?login=false"
             },
-            "17": {
-                title: "Acute D-serine treatment produces antidepressant-like effects in rodents.",
+            "11": {
+                title: "D-Serine in Neuropsychiatric Disorders: New Advances",
                 extract: "",
                 sci_ref: "",
-                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278496/"
-            }
+                url: "https://www.hindawi.com/journals/apsy/2014/859735/"
+            },
+            "12": {
+                title: "Meta-Analysis of the Efficacy of Adjunctive NMDA Receptor Modulators in Chronic Schizophrenia",
+                extract: "",
+                sci_ref: "10.2165/11586650-000000000-00000",
+                url: ""
+            },
+            "13": {
+                title: "D-serine facilitates the effects of extinction to reduce cocaine-primed reinstatement of drug-seeking behavior",
+                extract: "",
+                sci_ref: "",
+                url: "https://pubmed.ncbi.nlm.nih.gov/19595781/"
+            },
+            "14": {
+                title: "D-Serine and D-Cycloserine Reduce Compulsive Alcohol Intake in Rats.",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4538350/"
+            },
+            "15": {
+                title: "Morphine-induced inhibition of Ca2+ -dependent d-serine release from astrocytes suppresses excitability of GABAergic neurons in the nucleus accumbens.",
+                extract: "",
+                sci_ref: "10.1111/adb.12417",
+                url: ""
+            },
+            "16": {
+                title: "Control of Appetite and Food Preference by NMDA Receptor and Its Co-Agonist d-Serine",
+                extract: "",
+                sci_ref: "10.3390/ijms17071081",
+                url: ""
+            },
+            "17": {
+                title: "A glial amino-acid transporter controls synapse strength and homosexual courtship in Drosophila.",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2196133/"
+            },
         },
         md: md_neboglamine
     }

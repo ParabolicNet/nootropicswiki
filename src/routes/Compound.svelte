@@ -37,7 +37,7 @@
             {#each Object.keys(compound.sources) as source, i}
                 <div style="margin-bottom:15px;" class="ind-source" id="source{source}">
                 {#if compound.sources[source].url != ""}<a title="Visit Source {source} ({compound.sources[source].url})" target="_blank" rel="noreferrer" href="{compound.sources[source].url}">[ {source} ]</a>{/if}
-                {#if compound.sources[source].sci_ref != ""}<a title="Visit Source {source} ({compound.sources[source].sci_ref}) on Sci-Hub" target="_blank" rel="noreferrer" href="https://sci-hub.hkvisa.net/{compound.sources[source].sci_ref}">[{#if compound.sources[source].url == ""}{source}{/if} - Sci-Hub]</a>{/if}
+                {#if compound.sources[source].sci_ref != ""}<a title="Visit Source {source} ({compound.sources[source].sci_ref}) on Sci-Hub" target="_blank" rel="noreferrer" href="https://sci-hub.hkvisa.net/{compound.sources[source].sci_ref}">[ {#if compound.sources[source].url == ""}{source}{/if} - Sci-Hub ]</a>{/if}
                 
                 {#if compound.sources[source].extract}
                     "{compound.sources[source].extract}"

@@ -5,41 +5,6 @@ Bromantane is a compound that upregulates dopamine, with effects lasting after d
 
 Bromantane’s mechanism of action primarily involves enhancing dopamine synthesis through upregulation of key enzymes tyrosine hydroxylase (TH) and aromatic L-amino acid decarboxylase (AAAD) via indirect genomic pathways. Bromantane elevates cAMP response element-binding protein (CREB), which disinhibits TH (usually blocked by dopamine), leading to increased dopamine synthesis.
 
-Additionally, Bromantane is hypothesized to act as a Kir2.1 channel inhibitor (but MOA is unknown), stabilizing indirect pathway medium spiny neurons (IMSNs) and preventing aberrant synaptogenesis. Moreover, Bromantane reduces inflammatory cytokines and inhibits histone deacetylase (HDAC), upregulating neurotrophins like brain-derived neurotrophic factor (BDNF) and glial cell-derived neurotrophic factor (GDNF), contributing to its neuroprotective effects.
+Additionally, Bromantane is hypothesized to act as a Kir2.1 channel inhibitor (but MOA is unknown), stabilizing indirect pathway medium spiny neurons (IMSNs) and preventing aberrant synaptogenesis. Moreover, Bromantane reduces inflammatory cytokines <a title="Thus, the antiasthenic drug ladasten limits development of the anxious depressive state and suppresses the level ofproinflammatory cytokines IL-6, IL-17 and IL-4." class="ref" href="#source4">[4]</a> and inhibits histone deacetylase (HDAC) <a title="Ladasten reduced HDAC1 level in rat striatum and hippocampus and modified H3acK9 and H4acK8 levels in various structures of rat brain." class="ref" href="#source5">[5]</a>, upregulating neurotrophins like brain-derived neurotrophic factor (BDNF) and glial cell-derived neurotrophic factor (GDNF), contributing to its neuroprotective effects.
 
-## Studies
-
-#### Moderate dopaminergic effects after discontinuation
-- [Source](https://pubmed.ncbi.nlm.nih.gov/11109517/)
-- [Source](https://pubmed.ncbi.nlm.nih.gov/19491814/)
-- [Source](https://pubmed.ncbi.nlm.nih.gov/21322821/)
-
-#### Reduces anxiety
-- [Source](https://pubmed.ncbi.nlm.nih.gov/21322821/)
-
-#### Improves physical endurance
-- [Source](https://pubmed.ncbi.nlm.nih.gov/10934588/)
-
-#### Enhances learning
-- [Source](https://pubmed.ncbi.nlm.nih.gov/10998997/)
-
-#### Improves sex-drive
-- [Source](https://pubmed.ncbi.nlm.nih.gov/15341065/)
-
-#### Elevates CREB
-- [Source](https://www.sciencedirect.com/science/article/abs/pii/S0028390807002109)
-
-#### Reduces inflammatory cytokines
-- [Source](https://pubmed.ncbi.nlm.nih.gov/22288152/)
-
-#### Inhibits HDAC
-- [Source](https://sci-hub.se/https://pubmed.ncbi.nlm.nih.gov/22235395/)
-
-#### Neurotrophin-mediated sensitizing properties
-- [Source](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs10517-012-1516-z)
-
-#### Anti-fibrotic
-- [Source](https://www.globenewswire.com/news-release/2019/07/31/1894580/0/en/Algernon-Pharmaceuticals-Announces-Russian-Athletic-Performance-Enhancing-Drugs-Bemethyl-NP-135-and-Bromantane-NP-160-Exhibited-Potent-Anti-Fibrotic-Activity-in-NASH-and-CKD-Studie.html)
-
-#### Protective effects on mitochondria and cellular membranes
-- [Source](https://pubmed.ncbi.nlm.nih.gov/9929819/)
+Bromantane upregulates dopamine without being addictive or having tolerance <a title="The absence of 'withdrawal syndrome' after the drug withdrawal reveals the lack of addictive potential in this drug." class="ref" href="#source1">[1]</a><a title="Effect of bromantane on the rat neurologic status in two month course" class="ref" href="#source2">[2]</a>. It also reduces anxiety <a title="Effect of bromantane on the rat neurologic status in two month course" class="ref" href="#source6">[6]</a>, improves physical performance and sex drive <a title="Effects of bromantane and sidnocarb on long-term operant conditioning and its vegetative correlates in rats" class="ref" href="#source7">[7]</a><a title="A three-day treatment with [bromantane] (...) predominantly increased the sexual proceptivity, whereas a chronic administration (for 2 months in males and 2 weeks in females) produced a dose-dependent increase in both proceptivity and receptivity." class="ref" href="#source8">[8]</a><a title="The positive effect of bromantan (0.5-50 mg/kg) on the efficiency of physical work of mice and rats (swimming test, running on a treadmill) exceeds that of phenamine administered in optimal doses by 1.3-1.6 times." class="ref" href="#source9">[9]</a>, protects mithcondria and cellular membranes <a title="The data obtained suggest that the positive effect of bromantan on the physical efficiency is associated not only with its psychostimulating action but also with the membrane-protecting effect." class="ref" href="#source9">[9]</a>, enhances learning <a title="The neuro- and psychophysiological effects of bromantane" class="ref" href="#source10">[10]</a><a title="Mechanisms of Action of Ladasten: Activation of Gene Expression for Neurotrophins and Mitogen-Activated Kinases" class="ref" href="#source11">[11]</a><a title="The effects of ladasten on dopaminergic neurotransmission and hippocampal synaptic plasticity in rats" class="ref" href="#source13">[13]</a>, elevates CREB <a title="The effects of ladasten on dopaminergic neurotransmission and hippocampal synaptic plasticity in rats" class="ref" href="#source13">[13]</a>, and is anti-fibrotic <a title="Bromantane (NP-160) Exhibited Potent Anti-Fibrotic Activity in NASH and CKD Studies" class="ref" href="#source14">[14]</a>.
