@@ -1,10 +1,7 @@
 <script>
     import {compounds} from "../compounds/data.js";
-    import Seo from "./_Seo.svelte";
     import SearchBox from "./_SearchBox.svelte";
 </script>
-
-<Seo title="The Nootropics Wiki" />
 
 <main>
     <div class="gentle-flex">

@@ -1,15 +1,12 @@
 <script>
     import {articles} from "../articles/data.js";
     import Markdown from "./_Markdown.svelte";
-    import Seo from "./_Seo.svelte";
 
     export let article_code;
     let article = articles[article_code];
     console.log(article)
 
 </script>
-
-<Seo title="{article.title} - The Nootropics Wiki" />
 
 <main style="padding-left: 15px;padding-right: 15px;">
     <div class="gentle-flex">

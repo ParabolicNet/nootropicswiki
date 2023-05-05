@@ -1,15 +1,12 @@
 <script>
     import {compounds} from "../compounds/data.js";
     import Markdown from "./_Markdown.svelte";
-    import Seo from "./_Seo.svelte";
 
     export let compound_code;
     let compound = compounds[compound_code];
     console.log(compound)
 
 </script>
-
-<Seo title="{compound.name} Details - The Nootropics Wiki" />
 
 <main style="padding-left: 15px;padding-right: 15px;">
     <div class="gentle-flex">
