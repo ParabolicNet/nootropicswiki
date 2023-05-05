@@ -79,6 +79,48 @@ export const compounds = {
                 extract: "",
                 sci_ref: "10.1021/acs.jafc.7b04217",
                 url: ""
+            },
+            "4": {
+                title: "Behavioral and cognitive effects of the N-methyl-D-aspartate receptor co-agonist D-serine in healthy humans: initial findings",
+                extract: "",
+                sci_ref: "10.1016/j.jpsychires.2014.12.007",
+                url: ""
+            },
+            "5": {
+                title: "The effect of D-serine administration on cognition and mood in older adults",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.oncotarget.com/article/7691/text/"
+            },
+            "6": {
+                title: "CR 2249 [Neboglamine]: a New Putative Memory Enhancer. Behavioural Studies on Learning and Memory in Rats and Mice",
+                extract: "",
+                sci_ref: "10.1111/j.2042-7158.1996.tb03938.x",
+                url: ""
+            },
+            "7": {
+                title: "Cognition Enhancing Profile of CR 2249 [Neboglamine], a  New NMDA-Glycine Site Modulator",
+                extract: "",
+                sci_ref: "",
+                url: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1527-3458.1997.tb00326.x"
+            },
+            "9": {
+                title: "Xytis XY2401 [Neboglamine] Product Pipeline",
+                extract: "Neboglamine had an excellent safety profile, and was well tolerated. Preliminary clinical findings support the antidepressant effect predicted by non clinical studies.",
+                sci_ref: "",
+                url: "https://web.archive.org/web/20081006061116/http://www.xytis.com/Pipeline/xy2401.html"
+            },
+            "10": {
+                title: "Pilot controlled trial of d-serine for the treatment of post-traumatic stress disorder",
+                extract: "",
+                sci_ref: "",
+                url: "https://academic.oup.com/ijnp/article/12/9/1275/667286?login=false"
+            },
+            "17": {
+                title: "Acute D-serine treatment produces antidepressant-like effects in rodents.",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278496/"
             }
         },
         md: md_neboglamine

@@ -111,6 +111,13 @@ input[type="text"]:focus {
 	filter: invert(0.9);
 }
 
+.ind-source:target {
+	border: 2px solid yellow;
+	padding:5px;
+}
+
+.test #ind-source:target { background-color: rgb(40, 40, 40); }
+
 @font-face {
 	font-family: 'lo';
 	src: url('./lo.ttf');
