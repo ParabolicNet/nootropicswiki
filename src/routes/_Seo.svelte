@@ -7,7 +7,7 @@
   
   <SvelteSeo
     title={title}
-    description="Learn about primal movement exercises and how they can benefit your fitness."
+    description={description}
     keywords="nootropics, biohacking, neuroscience, pharmacology, wikipedia, wiki"
     openGraph={{
       title: {title},
