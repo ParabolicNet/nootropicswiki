@@ -36,7 +36,6 @@ a:hover {
 body {
 	padding-top: 10px;
 	min-width: 320px;
-	min-height: 100vh;
 	background-color: #222324;
 }
 
@@ -69,7 +68,7 @@ button:focus-visible {
 }
 
 input[type="text"] {
-	//border-radius: 8px;
+	/**/border-radius: 8px;
 	border: 1px solid transparent;
 	padding: 0.6em 1.2em;
 	font-size: 1em;
