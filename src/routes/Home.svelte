@@ -13,7 +13,7 @@
         
         </div>
         <p style="max-width:300px;">
-        A crude first version of the Nootropics Wiki to get all relevant information into one place. <a href="https://github.com/ParabolicNet/nootropicswiki">Contribute</a><!-- Sponsored by <a href="https://neuroregen.org" target="_blank">neuroregen</a>.-->
+        An introductory edition of the Nootropics Wiki aimed at assembling relevant data in one place. <a href="https://github.com/ParabolicNet/nootropicswiki">Contribute</a><!-- Sponsored by <a href="https://neuroregen.org" target="_blank">neuroregen</a>.-->
         </p>
 
         <SearchBox />
