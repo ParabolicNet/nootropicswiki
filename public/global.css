@@ -128,6 +128,30 @@ input[type="text"]:focus {
 	overflow-y: auto;
 }
 
+.compound-header, .attribute-labels {
+	display: flex;
+	flex: 1;
+	align-items: stretch;
+}
+
+.compound-header > div {
+	width: 50%;
+	height: 100%;
+}
+
+.attribute-labels {
+	height: 100%;
+	flex-direction: column;
+}
+
+.attribute-labels > div {
+	height: 33%;
+	background-color: #161717;
+	border-radius: 5px;
+	padding: 8px 15px 8px 15px;
+	margin-bottom: 5px;
+}
+
 @font-face {
 	font-family: 'lo';
 	src: url('./lo.ttf');
