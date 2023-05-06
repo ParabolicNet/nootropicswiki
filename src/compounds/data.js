@@ -18,7 +18,7 @@ export const compounds = {
         moa: "Kir2.1 Channel Inhibitor?",
         class: [
             "Dopamine Upregulator",
-            "Pro-Testerone"
+            "Steroidogenic"
         ],
         related: [],
         interactions: [],
@@ -122,8 +122,8 @@ export const compounds = {
         ],
         moa: "AMPA PAM",
         class: [
-            "Pro-Cognition",
-            "Pro-AMPA"
+            "Cognition",
+            "AMPA"
         ],
         related: [],
         interactions: [],
@@ -156,7 +156,7 @@ export const compounds = {
         ],
         moa: "NMDA Glycine PAM",
         class: [
-            "Pro-Cognition"
+            "Cognition"
         ],
         related: [],
         interactions: [],
@@ -270,9 +270,9 @@ export const compounds = {
         ],
         moa: "ERK1/2 Activator",
         class: [
-            "Pro-Cognition",
-            "Pro-Longevity",
-            "Pro-BDNF"
+            "Cognition",
+            "Longevity",
+            "BDNF"
         ],
         related: [],
         interactions: [],

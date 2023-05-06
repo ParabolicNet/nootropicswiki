@@ -2,13 +2,13 @@
     import SvelteSeo from "svelte-seo";
 
     export let title = "The Nootropics Wiki";
-    export let description = "A Wiki to get all relevant Nootropics and Compound research into one place.";
+    export let description = "A centralized location for key nootropics and compound research.";
   </script>
   
   <SvelteSeo
     title={title}
     description={description}
-    keywords="nootropics, biohacking, neuroscience, pharmacology, wikipedia, wiki"
+    keywords="nootropics, biohacking, neuroscience, pharmacology, wikipedia, wiki, nootropicswiki, nootropicwiki"
     openGraph={{
       title: {title},
       description: {description},
