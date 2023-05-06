@@ -266,6 +266,7 @@ export const compounds = {
         pubchem_id: "10273502",
         smiles: "C(CC(C(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)O)N)CN=C(N)N",
         other_names: [
+            "EDR",
             "Glu-Asp-Arg"
         ],
         moa: "ERK1/2 Activator",
