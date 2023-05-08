@@ -12,7 +12,7 @@
     <div class="gentle-flex">
         <div class="content" style="width:100%;">
             <a href="/">Back to Main Page</a><br><br>
-            <div class="compound-header">
+            <div class="compound-header mobile-no-flex">
             <div class="compound-attributes" style="margin-right:10px;">
                 <h1 style="margin:0;">{compound.name} <span style="font-size: 15px;"> {#if compound.pubchem_id} (<a title="Visit PubChem Compound {compound.pubchem_id}" target="_blank" href="https://pubchem.ncbi.nlm.nih.gov/compound/{compound.pubchem_id}">PubChem</a>){/if}</span></h1>
 

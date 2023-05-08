@@ -85,17 +85,17 @@ So, say I read <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.ni
 
 So by altering the keywords, I get the following result:
 
-<img src="/images/articles/cbd_search.webp" height="150px" alt="Example google search">
+<img class="md-img" src="/images/articles/cbd_search.webp" height="150px" alt="Example google search">
 <figcaption><small>Example 1 of using google to your advantage</small></figcaption>
 
 In this study, CBD actually impaired cognition. But this is just the abstract, what if I wanted to read the full thing and it's behind a paywall? Well, now I will introduce sci-hub, which lets you unlock almost every scientific study. There are multiple sci-hub domains, as they keep getting delisted (like sci-hub.do), but for this example we will use sci-hub.se/[insert DOI link here]. Side note, I strongly suggest using your browser's "find" tool, as it makes finding things so much easier.
 
-<img src="/images/articles/cbd_doi.webp" height="150px" alt="Example DOI">
+<img class="md-img" src="/images/articles/cbd_doi.webp" height="150px" alt="Example DOI">
 <figcaption><small>Example of where to find a DOI link</small></figcaption>
 
 So putting <a target="_blank" rel="noreferrer" href="https://sci-hub.se/10.1038/s41598-018-25846-2">sci-hub.se/10.1038/s41598-018-25846-2</a> in our browser will give us the full study. But since positive data was conducted in healthy people and this was in cigarette users, it's not good enough. However, changing the key words again I get this:
 
-<img src="/images/articles/cbd_search2.webp" height="120px" alt="Example google search">
+<img class="md-img" src="/images/articles/cbd_search2.webp" height="120px" alt="Example google search">
 <figcaption><small>Example 2 of using google to your advantage</small></figcaption>
 
 **Comparing data:**
@@ -139,7 +139,7 @@ By being either blinded by their self image, or fearing the consequence of their
 
 Lying aside, there are other ways to manipulate the reader, with one example being the <a target="_blank" rel="noreferrer" href="https://onlinelibrary.wiley.com/doi/10.1111/and.12482">study in a patented form of Shilajit</a>, where it purportedly increased testosterone levels in healthy volunteers. Their claim is that after 90 days, it increased testosterone. But looking at the data itself, it isn't so clear:
 
-<img src="/images/articles/shilajit_example.webp" height="180px" alt="Shilajit results">
+<img class="md-img" src="/images/articles/shilajit_example.webp" height="180px" alt="Shilajit results">
 <figcaption><small>Data used as evidence for Shilajit increasing testosterone</small></figcaption>
 
 As you can see above, in the first and second months, free testosterone in the Shilajit group had actually decreased, and then the study was conveniently stopped at 90 days. This way they can market it as a "testosterone enhancer" and say it "increased free testosterone after 90 days", when it's more likely that testosterone just happened to be higher on that day. Even still, total testosterone in the 90 days Shilajit group matched placebo's baseline, and free testosterone was still lower.
@@ -150,7 +150,7 @@ This is an obvious conflict of interest, but conflict of interest is rarely obvi
 
 A semi-solution to this is simply tallying the results of multiple studies. Generally speaking, one should defer to this:
 
-<img src="/images/articles/evidence_hierarchy.webp" height="280px" alt="Evidence Hierarchy">
+<img class="md-img" src="/images/articles/evidence_hierarchy.webp" height="280px" alt="Evidence Hierarchy">
 
 While the above is usually true, it's highly context dependent: meta-analyses can have huge limitations, which they sometimes state. Additionally, animal studies are crucial to understanding how a drug works, and put tremendous weight behind human results. This is because, well... You can't kill humans to observe what a drug is doing at a cellular level. Knowing a drug's mechanism of action is important, and rat studies aren't that inaccurate, such in <a target="_blank" rel="noreferrer" href="https://sci-hub.se/https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt196235665">this</a> analysis:
 

@@ -16,10 +16,16 @@
         An introductory edition of the Nootropics Wiki aimed at assembling relevant data in one place. <a href="https://github.com/ParabolicNet/nootropicswiki">Contribute</a><!-- Sponsored by <a href="https://neuroregen.org" target="_blank">neuroregen</a>.-->
         </p>
 
+        <h3>Articles</h3>
+        <ul>
+            <li><a href="/article/learn-pharma">Article - Learning pharmacology</a></li>
+            <li><a href="/article/dlpfc-modulation">Article - dlPFC Modulation</a></li>
+        </ul>
+
+        <h3>Search</h3>
+
         <SearchBox />
 
-        <br>
-        <a href="/article/learn-pharma">Article Example - Learn pharma</a>
     </div>
     </div>
 </main>
