@@ -9,7 +9,7 @@ The dlPFC is one of the most recently evolved/developed areas of the brain, in c
 <img class="md-img" src="/images/articles/ampa-firing.jpg" height="300px" alt="Example of AMPA role">
 <figcaption><small>Iontophoresis of the AMPAR antagonist, CNQX, has only subtle effects on dlPFC Delay cell firing, while blockade of NMDAR- GluN2B with Ro25-6981 (Ro) markedly reduces Delay cell firing. <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584418/">[Source]</a></small></figcaption>
 
-This is part of the reason why the dlPFC and surrounding areas are so vulnerable to aging-based deteriation, 
+This is part of the reason why the dlPFC and surrounding areas are so vulnerable to aging-based deteriation. -tbf-
 
 The dlPFC has a lot of important functions, but something to note as we start, is that the dlPFC is heavily impacted by mGluR2 and mGluR3 firing. Modulating either of these, directly, or via other mechanisms like NAAG or GCP-II, has significant impacts on Delay Cell Firing and the function of the dlPFC (working memory, cognition, etc).
 
@@ -50,5 +50,28 @@ The anti-addictive, anti-hedonistic, and pro-executive function of optimal dlPFC
 
 This then shows the importance of the dlPFC in regulating emotion and top-down control/executive function. However, just BA25 modulation alone has its limits. Lowering BA25 activity may lower the control of the amagyla over the higher cortex areas, but how can we truly maximize the function of the dlPFC so we can have the highest amount of cognitive control and Delay Cell Firing?
 
-more soon...
+We can do this by modulating mGluR2/3 interactions, which seem to have the largest effect on the function of the dlPFC.
 
+### Group II mGluRs (mGlu2/mGlu3)
+
+This is a good time to talk about NAAG (N-Acetylaspartylglutamic Acid) and GCP-II (Glutamate Carboxypeptidase II/NAAG peptidase).
+
+<a target="_blank" rel="noreferrer" href="https://www.sciencedirect.com/science/article/abs/pii/S1074742719300061">NAAG is a neurotransmitter that increases mGluR3 through agonism</a>. NAAG is inactivated by a glial enzyme GCP-II, so when GCP-II is focused, mGluR3 signaling is increased through GCP-II -> NAAG -> mGLuR3. GCP-II inhibition looks like one of the most promising ways of increasing mGLuR3 firing, and inhibiting it has other benefits too. It looks more beneficial over directly administered NAAG, because administered NAAG seems to increase unpreferred firing.
+
+mGluR2 interacts with mGluR3 to control Delay Cell Firing in the dlPFC. mGluR2 is mostly located presynaptically while mGluR3 is mostly located postsynaptically.
+
+<img class="md-img" src="/images/articles/postpre.jpg" height="300px" alt="Example of post/pre">
+<figcaption><small>mGluR3 is concentrated postsynaptically in spine synapses of layer III dlPFC. In contrast, mGluR2 is principally presynaptic as expected, with only a minor postsynaptic component.</small></figcaption>
+
+Cognitive deficits in disorders such as schizophrenia, aging, and Alzheimer's are increasingly associated with insults to mGluR3 receptors, while reductions in mGluR2 appear protective. This has been perplexing, as mGluR3 has been considered glial receptors, and mGluR2 and mGluR3 have been thought to have similar functions, reducing glutamate transmission. However, all the evidence points to mGluR2 and mGluR3 having opposing functions.
+
+<img class="md-img" src="/images/articles/mglurs.png" height="300px" alt="Example of mGluRs">
+<figcaption><small>Working model of mGluR2 and mGluR3 actions in a layer III dlPFC glutamatergic synapse.</small></figcaption>
+
+> GCPII inhibition as well as a heterotropic mGluR/3 agonist restores short-term object recognition in mice treated with intoxicating doses (2.3 g/l) of ethanol (Olszewski et al., 2017).
+
+Higher NAAG levels are associated with better cognition, suggesting that increasing NAAG levels through FOLH1/GCPII inhibition may improve cognition, and this has been shown consistently across primate and rodent models.
+
+### Neuroprotection
+
+In several PD models, improved motor activity and enhanced neuroprotection have been reported with mGluR3 agonists.
