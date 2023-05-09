@@ -1,3 +1,5 @@
+## Introduction
+
 --- This article is a WIP ---
 
 The <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Dorsolateral_prefrontal_cortex">Dorsolateral Pre-Frontal Cortex (dlPFC)</a> is one of the most interesting parts of the brain. It has very significant implications on spatial cognition and working memory, visualizing, executive function and more. It is one of the most important, yet one of the most underfocused areas for the goal of increasing cognitive potential. 
@@ -15,7 +17,37 @@ The dlPFC has a lot of important functions, but something to note as we start, i
 
 Delay Cells (which will be mentioned often) reside in pyramidal cell microcircuits in deep layer III (the most cognitively important layer) of the dlPFC that have extensive recurrent excitatory connections.
 
-### Functions of the dlPFC
+## Table of Contents
+
+### dlPFC Neuroscience:
+
+**<a href="#dl1">Functions of the dlPFC</a>**
+- About the dlPFC
+- Relevance of Delay Cells
+
+**<a href="#dl2">The Top-Down Control Dichotomy</a>**
+- The relevance of the dlPFC for overlooking other parts of cognition
+- Emotion and pain regulation
+- Potential of dlPFC modulation for top-down control
+
+### mGluR Modulation:
+
+**<a href="#mg1">Group II mGluRs (mGlu2/mGlu3)</a>**
+- How mGluR2 & mGluR3 interact
+
+**<a href="#mg2">mGluR3 Modulation</a>**
+- On NAAG/GCP-II and relevance
+- Observed effects of mGluR3 modulation
+
+**<a href="#mg3">mGluR2 Modulation</a>**
+- Cognition and fine tuning glutamate
+
+**<a href="#mg4">Neuroprotection</a>**
+- Protection against age-based decline
+- Ameriolation for those with disease
+
+<span id="dl1"></span>
+## Functions of the dlPFC
 
 The primate dlPFC has the remarkable ability to generate and sustain mental representations without sensory stimulation, <a target="_blank" rel="noreferrer" href="https://www.cell.com/neuron/pdf/0896-6273(95)90304-6.pdf">the foundation of abstract thought</a>.
 
@@ -30,7 +62,8 @@ In another study, dlPFC damage was associated with deficits in the manipulation 
 
 The dlPFC has implications in detecting threats <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/35231420/">[Source]</a>, pattern recognition, consciousness/consciousness awareness <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/18514741/">[Source]</a>, risk taking, mental health, possibly even endurance due to effort-cost judgements <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/37020275/">[Source]</a> and many other things. So, lets look into it.
 
-### The Top-Down Control Dichotomy
+<span id="dl2"></span>
+## The Top-Down Control Dichotomy
 
 <img class="md-img" src="/images/articles/firing.jpg" height="340px" alt="Example of dlPFC control direction">
 
@@ -58,7 +91,8 @@ This then shows the importance of the dlPFC in regulating emotion and top-down c
 
 We can do this by modulating mGluR2/3 (also known as group II mGluRs) interactions, which seem to have the largest effect on the function of the dlPFC.
 
-### Group II mGluRs (mGlu2/mGlu3)
+<span id="mg1"></span>
+## Group II mGluRs (mGlu2/mGlu3)
 
 mGluR2 interacts with mGluR3 to control Delay Cell Firing in the dlPFC. Group II mGluRs are <a target="_blank" rel="noreferrer" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2004.03378.x">primarily presynaptic autoreceptor</a> with the function to <a target="_blank" rel="noreferrer" href="https://www.frontiersin.org/articles/10.3389/fncel.2018.00508/full">inhibit glutamate transmission.</a>. However, both mGluR2 and mGluR3 can be found postsynaptically in regions such as <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5974790/">dlPFC</a> and <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/12948448/">Golgi cells</a> respectively. mGluR3 can even be localized <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/8684625/">glially</a> with astrocytic processes. In DLPFC, while mGluR2 is mostly located presynaptically as expected mGluR3 is mostly located here postsynaptically.
 
@@ -72,7 +106,8 @@ Cognitive deficits in disorders such as schizophrenia, aging, and Alzheimer's ar
 
 mGluR2 reduces Delay Cell Firing and glutamate, while mGluR3 increases Delay Cell Firing. Therefore, by increasing mGlu3 activity and lowering mGlu2 activity, we can increase Delay Cell Firing, which in turn increases the function of the dlPFC.
 
-### mGluR3 Modulation
+<span id="mg2"></span>
+## mGluR3 Modulation
 
 This is a good time to talk about <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/N-Acetylaspartylglutamic_acid">NAAG</a> (N-Acetylaspartylglutamic Acid) and <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Glutamate_carboxypeptidase_II">GCP-II</a> (Glutamate Carboxypeptidase II/NAAG peptidase).
 
@@ -86,13 +121,17 @@ Higher NAAG levels are associated with better cognition, suggesting that increas
 
 Inhibiting GCP-II also has been shown to be analgesic in many models (<a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/23776202/">potentially with lasting effects</a>), which makes sense as the dlPFC overlooks pain signaling, and GCP-II inhibition enhances dlPFC function. It has also been shown to decrease excitatory neurotransmission and inflammation-induced plasticity within the amygdala in a mouse model <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152775/">[Source]</a>. It currently seems like GCP-II inhibition decreases glutamate release in the amygdala, however this has yet to be confirmed with microdialysis studies.
 
-### mGluR2 Modulation
+<span id="mg3"></span>
+## mGluR2 Modulation
 
 Even though mGluR3 can reduce glutamate via both <a target="_blank" rel="noreferrer" href="https://biosignaling.biomedcentral.com/articles/10.1186/s12964-022-00866-8">presynaptic actions</a> and <a target="_blank" rel="noreferrer" href="https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1460-9568.2003.02657.x">glial action</a> leading to consequent upregulated EAATs and glutamate uptake, but mGluR2 is much <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3690373/">more potent</a> at reducing glutamate transmission as compared to mGluR3. Excess glutamate associated excitotoxicity is implicated in Alzheimer's disease yet mGluR2 activation <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/21159998/">worsens amyloid-beta toxicity</a>. mGluR2 inhibition is also thought to be <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3064746/">mechanism of psychedelics</a> leading to antidepressant effect. In terms of cognition, mGluR2 but not mGluR3 has <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/28108498/">inverted dose-effect response</a> on dlPFC Delay cell firing and WM improvements. Despite this, no mGluR2 NAM have been shown to have cognitive impairing effects yet. Thus, mGluR2 inhibition along with mGluR3 activation should fine tune our glutamate system.
 
-### Neuroprotection
+<span id="mg4"></span>
+## Neuroprotection
 
 In several PD models, improved motor activity and enhanced neuroprotection have been reported with mGluR3 agonists.
 
 <img class="md-img" src="/images/articles/old-firing.jpg" height="400px" alt="Example of mGluR firing system">
 <figcaption><small><a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/34312496/">[Source]</a></small></figcaption>
+
+tbf...
