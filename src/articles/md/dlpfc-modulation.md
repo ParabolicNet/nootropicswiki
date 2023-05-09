@@ -82,7 +82,7 @@ This is a good time to talk about <a target="_blank" rel="noreferrer" href="http
 
 Higher NAAG levels are associated with better cognition, suggesting that increasing NAAG levels through FOLH1/GCPII inhibition may improve cognition, and this has been shown consistently across primate and rodent models.
 
-Inhibiting GCP-II also has been shown to be analgesic in many models, which makes sense as the dlPFC overlooks pain signaling, and GCP-II inhibition enhances dlPFC function.
+Inhibiting GCP-II also has been shown to be analgesic in many models (<a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/23776202/">potentially with lasting effects</a>), which makes sense as the dlPFC overlooks pain signaling, and GCP-II inhibition enhances dlPFC function. It has also been shown to decrease excitatory neurotransmission and inflammation-induced plasticity within the amygdala in a mouse model <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152775/">[Source]</a>. It currently seems like GCP-II inhibition decreases glutamate release in the amygdala, however this has yet to be confirmed with microdialysis studies.
 
 ### mGluR2 Modulation
 
