@@ -78,16 +78,29 @@ Under conditions of stress or depression, elevated activity in the cingulate cor
 It seems easier for women to lose this top-down control compared to men. In women, the interaction between emotion and working memory yielded a significantly stronger response in the amygdala and the orbitofrontal cortex (OFC) compared to their male counterparts. <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/17544015/">[Source]</a>
 
 <img class="md-img" src="/images/articles/models.jpg" style="width:100%;" alt="Example of dlPFC dichotomy">
+<figcaption><small>Diagram Source: <a target="_blank" rel="noreferrer" href="https://www.frontiersin.org/articles/10.3389/fpsyt.2021.654322/full">NMDAR Neurotransmission Needed for Persistent Neuronal Firing"</a></small></figcaption>
 
 > "Many antidepressant treatments (seretonin modulators, psychedelics, *maybe even <a target="_blank" href="/details/pinealon">pinealon</a>*) reduce the activity of <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Brodmann_area_25">BA25</a>. This may give the cortex a “foot in the door” to restore top-down regulation, especially when treatments promote dendritic spine restoration in higher PFC circuits. Other treatments may directly enhance the top-down regulation by the left dlPFC, e.g., rTMS and insight therapies."
 
-The anti-addictive, anti-hedonistic, and pro-executive function of optimal dlPFC firing has been shown consistently across many studies.
+The anti-addictive, anti-hedonistic, and pro-executive function of optimal dlPFC firing has been shown consistently across many studies. Here are some examples:
 
-> "Excitatory neuromodulation targeting the dorsolateral prefrontal cortex appears to lead to a sustained reduction of craving and consumption in individuals with addiction or overeating behaviour." <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/34514666/">[Source]</a>
+- "Excitatory neuromodulation targeting the dorsolateral prefrontal cortex appears to lead to a sustained reduction of craving and consumption in individuals with addiction or overeating behaviour." <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/34514666/">[Source]</a>
 
-> The group which received active DLPFC tDCS showed significantly improved task performance across all EFs immediately after and 1 month following the intervention, when compared to both pre-stimulation baseline and individuals who received sham tDCS. Similarly, a significant reduction in craving was observed immediately after and 1 month following the intervention in the active, but not sham stimulation group. <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/32289681/">[Source]</a>
+- "The group which received active DLPFC tDCS showed significantly improved task performance across all EFs immediately after and 1 month following the intervention, when compared to both pre-stimulation baseline and individuals who received sham tDCS. Similarly, a significant reduction in craving was observed immediately after and 1 month following the intervention in the active, but not sham stimulation group." <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/32289681/">[Source]</a>
 
-> Pretreatment with 2-PMPA only partially attenuated cocaine-enhanced extracellular NAc DA but completely blocked cocaine-enhanced extracellular NAc glutamate, suggesting an important role of NAc glutamate in mediating the pharmacological action of 2-PMPA. <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2809121/">[Source]</a>
+- "Pretreatment with 2-PMPA only partially attenuated cocaine-enhanced extracellular NAc DA but completely blocked cocaine-enhanced extracellular NAc glutamate, suggesting an important role of NAc glutamate in mediating the pharmacological action of 2-PMPA." <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2809121/">[Source]</a>
+
+It is ever-more seeming like the dlPFC-amygdala connection is the connection containing the "gatekeeper" of the brain. We can have good intentions within the Cortex/dlPFC/surrounding areas, such as to start new habits or to do things that bring greater meaning and fulfilment. However, the Basal Ganglia/Amygdala can block these actions due to emotion/pain-based or effort-based means.
+
+<img class="md-img" src="/images/articles/gatekeeper.png" height="300px" alt="Example of gatekeeper pathway">
+<figcaption><small>Diagram Source: <a target="_blank" rel="noreferrer" href="https://typefully.com/DellAnnaLuca/QvThJdS">Luca Dellanna</a>.</small></figcaption>
+
+Guanfacine (which increases dlPFC delay cell firing through α2A-adrenergic agonism) has already been shown to change the dlPFC-amgydala relationship to enhance cognitive control <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/25059532/">[Source]</a>, however its upside has been limited by side effects of α2A-adrenergic receptor agonism (though it is still useful).
+
+Amygdala overactivation lowers cognitive control and therefore is imparing to high level productivity and personal fulfilment. If we can keep top-down control, without letting primitive networks decide what we do based on immediate pleasure, then our higher intelligence is more in control. This is incredibly desirable, from a neurological sense, to a philosophical sense. Being able to act intelligently without reverting to primitive pleasures, hedonism, and addiction, would amount to an evolution in the human form, especially if done through a compound modulating the dlPFC to a level of high significance.
+
+<img class="md-img" src="/images/articles/topdown.jpg" height="250px" alt="Example of gatekeeper pathway">
+<figcaption><small>Diagram Source: <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/26404712/">"Stress weakens prefrontal networks: molecular insults to higher cognition"</a>.</small></figcaption>
 
 This then shows the importance of the dlPFC in regulating emotion and top-down control/executive function. However, just <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Brodmann_area_25">BA25</a> modulation alone has its limits. Lowering <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Brodmann_area_25">BA25</a> activity may lower the control of the amagyla over the higher cortex areas, but how can we truly maximize the function of the dlPFC so we can have the highest amount of cognitive control and Delay Cell Firing?
 
@@ -108,7 +121,7 @@ Cognitive deficits in disorders such as schizophrenia, aging, and Alzheimer's ar
 
 mGluR2 reduces Delay Cell Firing and glutamate, while mGluR3 increases Delay Cell Firing. Therefore, by increasing mGlu3 activity and lowering mGlu2 activity, we can increase Delay Cell Firing, which in turn increases the function of the dlPFC.
 
-Something to note is that there are some interesting candidates for dual mGluR3 PAM / mGluR2 NAM actions. These dual mechanism compounds are very novel, with a lack of studies and they do not have the greatest safety/compound property predictions either. One candidate is known as <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/PHCCC_4Me">PHCCC(4Me)</a>, also known as "THCCC" (not to be confused with PHCCC), however its safety predictions are not great. The best looking compound for dual mGluR3 PAM and mGluR2 NAM seems to be <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/49858305">N-(4-methylphenyl)-7-oxo-1,7a-dihydrocyclopropa[b]chromene-1a-carboxamide</a>, however it is unlikely to have any literature anytime soon. More information on these dual MOA compoounds <a target="_blank" rel="noreferrer" href="https://sci-hubtw.hkvisa.net/10.1021/jm101069m">can be found here</a>.
+Something to note is that there are some interesting candidates for dual mGluR3 PAM / mGluR2 NAM actions. These dual mechanism compounds are very novel, with a lack of studies and they do not have the greatest safety/compound property predictions either. One candidate is known as <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/PHCCC_4Me">PHCCC(4Me)</a>, also known as "THCCC" (not to be confused with PHCCC), however its safety predictions are not great. The best looking compound for dual mGluR3 PAM and mGluR2 NAM seems to be <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/49858305">N-(4-methylphenyl)-7-oxo-1,7a-dihydrocyclopropa[b]chromene-1a-carboxamide</a>, however it is unlikely to have any literature anytime soon. More information on these dual MOA compounds <a target="_blank" rel="noreferrer" href="https://sci-hubtw.hkvisa.net/10.1021/jm101069m">can be found here</a>.
 
 <span id="mg2"></span>
 ## mGluR3 Modulation
@@ -123,11 +136,15 @@ NAAG is inactivated by a glial enzyme GCP-II, so when GCP-II is inhibited, mGluR
 
 Higher NAAG levels are associated with better cognition, suggesting that increasing NAAG levels through FOLH1/GCPII inhibition may improve cognition, and this has been shown consistently across primate and rodent models.
 
+NAAG function is also highly correlated with IQ. For people with the gene rs202676, they have Decreased NAAG Levels (due to more GCP-II/FOLH1), and they have lower IQ on average as a result, likely due to lowered mGluR3 functioning <a target="_blank" rel="noreferrer" href="https://sci-hubtw.hkvisa.net/10.1176/appi.ajp.2020.19111152?url_ver=Z39.88-2003">[Source]</a>.
+
 Inhibiting GCP-II also has been shown to be analgesic in many models (<a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/23776202/">potentially with lasting effects</a>), which makes sense as the dlPFC overlooks pain signaling, and GCP-II inhibition enhances dlPFC function. It has also been shown to decrease excitatory neurotransmission and inflammation-induced plasticity within the amygdala in a mouse model <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152775/">[Source]</a>. It currently seems like GCP-II inhibition decreases glutamate release in the amygdala, however this has yet to be confirmed with microdialysis studies.
 
-The best candidates for GCP-II inhibition look to be <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/10130754">2-PMPA</a> and <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/11722553">ZJ43</a>. Both of them have proven useful in increasing delay cell firing, with 2-PMPA being able to <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/35732693/">double delay cell firing</a>.
+The best candidates for GCP-II inhibition look to be <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/10130754">2-PMPA</a> and <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/11722553">ZJ43</a>. Both of them have proven useful in increasing delay cell firing, with 2-PMPA being able to <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/35732693/">double delay cell firing</a>. 2-MPPA was a previous candidate, but it was withdrawn from use due to safety concern.
 
-2-PMPA looks the most potent GCP-II inhibitor (by a small margin), with the chance of the highest safety, but it has bad BBB penetration. To ameriolate this issue, <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/26151906">intranasal administration</a>, and <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5795618/">γ-Substituted intranasal prodrugs</a> seem much more effective than oral or IV 2-PMPA.
+Both 2-PMPA and ZJ43 have been shown to significantly increase working memory in multiple animal models <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6397785/">[Mice]</a>
+
+2-PMPA looks the most potent GCP-II inhibitor (by a small margin), with the chance of the highest safety, but it has bad BBB penetration. To ameriolate this issue, <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/26151906">intranasal administration</a>, and <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5795618/">γ-Substituted intranasal prodrugs</a> seem much more effective than oral or IV 2-PMPA. The most promising 2-PMPA prodrug so far looks to be <a target="_blank" rel="noreferrer" href="https://pubchem.ncbi.nlm.nih.gov/compound/146536438">γ-PAB-2-PMPA</a> due to its high brain cortex delivery and complete disappearance of the parent prodrug when administered.
 
 <span id="mg3"></span>
 ## mGluR2 Modulation
@@ -139,7 +156,7 @@ mGluR2 inhibition is also thought to be one <a target="_blank" rel="noreferrer" 
 <span id="mg4"></span>
 ## Neuroprotection
 
-### mGluR3 Protection
+### mGluR3-Based Protection
 
 In several age-based decline models, improved motor activity and enhanced neuroprotection have been reported with mGluR3 agonists and GCP-II inhibitors.
 
