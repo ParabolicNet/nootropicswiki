@@ -60,7 +60,9 @@ dlPFC “Delay cells” are able to maintain persistent firing across the delay 
 
 In another study, dlPFC damage was associated with deficits in the manipulation of verbal and spatial knowledge, with left dlPFC necessary for manipulating information in working memory and right dlPFC critical for manipulating information in a broader range of reasoning contexts. <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/22789779/">[Source]</a>
 
-The dlPFC has implications in detecting threats <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/35231420/">[Source]</a>, pattern recognition, consciousness/consciousness awareness <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/18514741/">[Source]</a>, risk taking, mental health, possibly even endurance due to effort-cost judgements <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/37020275/">[Source]</a> and many other things. So, lets look into it.
+The dlPFC has functions that effect OCD. In a few studies <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/36819945/">[o1]</a><a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/36565659/">[o2]</a><a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9606437/">[o3]</a> modulating the left dlPFC using <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation">rTMS (Transcranial magnetic stimulation)</a>, they showed improvements in symptoms for OCD. However, positives have yet to be replicated using GCP-II inhibition or compound-based modulation.
+
+The dlPFC also has implications in detecting threats <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/35231420/">[Source]</a>, pattern recognition, consciousness/consciousness awareness <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/18514741/">[Source]</a>, risk taking, mental health (depression, anhedonia, ADHD, schizo), possibly even physical endurance due to effort-cost judgements <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/37020275/">[Source]</a> and many other things. So, lets look into it.
 
 <span id="dl2"></span>
 ## The Top-Down Control Dichotomy
@@ -95,12 +97,14 @@ It is ever-more seeming like the dlPFC-amygdala connection is the connection con
 <img class="md-img" src="/images/articles/gatekeeper.png" height="300px" alt="Example of gatekeeper pathway">
 <figcaption><small>Diagram Source: <a target="_blank" rel="noreferrer" href="https://typefully.com/DellAnnaLuca/QvThJdS">Luca Dellanna</a>.</small></figcaption>
 
-Guanfacine (which increases dlPFC delay cell firing through α2A-adrenergic agonism) has already been shown to change the dlPFC-amgydala relationship to enhance cognitive control <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/25059532/">[Source]</a>, however its upside has been limited by side effects of α2A-adrenergic receptor agonism (though it is still useful).
+Guanfacine (which increases dlPFC delay cell firing through α2A-adrenergic agonism) has already been shown to change the dlPFC-amgydala relationship to enhance cognitive control <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/25059532/">[Source]</a>, however its upside has been limited by side effects of α2A-adrenergic receptor agonism, though it is still useful.
 
-Amygdala overactivation lowers cognitive control and therefore is imparing to high level productivity and personal fulfilment. If we can keep top-down control, without letting primitive networks decide what we do based on immediate pleasure, then our higher intelligence is more in control. This is incredibly desirable, from a neurological sense, to a philosophical sense. Being able to act intelligently without reverting to primitive pleasures, hedonism, and addiction, would amount to an evolution in the human form, especially if done through a compound modulating the dlPFC to a level of high significance.
+Amygdala overactivation lowers cognitive control and therefore is imparing to high level productivity and personal fulfilment. If we can keep top-down control, without letting primitive networks decide what we do based on immediate pleasure, then our higher intelligence can be more in control. This is incredibly desirable, from a neurological sense, to a philosophical sense. Being able to act intelligently without reverting to primitive pleasures, hedonism, and addiction, would amount to an evolution in the human form, especially if done through a compound modulating the dlPFC to a level of high significance.
 
 <img class="md-img" src="/images/articles/topdown.jpg" height="250px" alt="Example of gatekeeper pathway">
 <figcaption><small>Diagram Source: <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/26404712/">"Stress weakens prefrontal networks: molecular insults to higher cognition"</a>.</small></figcaption>
+
+The dlPFC is <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/37035621/">a major component</a> of motivation/anticipation and goals. The dorsolateral PFC (dlPFC) integrates and transmits signals of reward to the mesolimbic and meso-cortical DA circuits and initiates motivated behavior <a target="_blank" rel="noreferrer" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182466/">[Source]</a>.
 
 This then shows the importance of the dlPFC in regulating emotion and top-down control/executive function. However, just <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Brodmann_area_25">BA25</a> modulation alone has its limits. Lowering <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Brodmann_area_25">BA25</a> activity may lower the control of the amagyla over the higher cortex areas, but how can we truly maximize the function of the dlPFC so we can have the highest amount of cognitive control and Delay Cell Firing?
 
@@ -161,7 +165,7 @@ mGluR2 inhibition is also thought to be one <a target="_blank" rel="noreferrer" 
 In several age-based decline models, improved motor activity and enhanced neuroprotection have been reported with mGluR3 agonists and GCP-II inhibitors.
 
 <img class="md-img" src="/images/articles/old-firing.jpg" height="400px" alt="Example of mGluR firing system">
-<figcaption><small><a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/34312496/">[Source]</a></small></figcaption>
+<figcaption><small>Source: <a target="_blank" rel="noreferrer" href="https://pubmed.ncbi.nlm.nih.gov/34312496/">Neuromodulation of prefrontal cortex cognitive function in primates</a>.</small></figcaption>
 
 mGluR3 Positive Allosteric Modulation can induce an increased production of GDNF and TGF-b <a target="_blank" rel="noreferrer" href="https://www.researchgate.net/publication/266157549_mGluR3_PAM_a_novel_neuroprotective_strategy_for_Parkinson's_disease">[Source]</a>, in a mGluR3-dependent manner, which would also likely result after GCP-II inhibition as well. 
 
