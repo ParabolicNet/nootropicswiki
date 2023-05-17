@@ -2,6 +2,7 @@ import md_bromantane from "./md/bromantane.md";
 import md_tak_653 from "./md/tak-653.md";
 import md_neboglamine from "./md/neboglamine.md";
 import md_pinealon from "./md/pinealon.md";
+import md_tropisetron from "./md/tropisetron.md";
 
 import replaceme from "./md/_placeholder.md";
 
@@ -15,7 +16,7 @@ export const compounds = {
             "Bromantan",
             "Ladasten"
         ],
-        moa: "Kir2.1 Channel Inhibitor?",
+        moa: ["Kir2.1 Channel Inhibitor"],
         class: [
             "Dopamine Upregulator",
             "Steroidogenic"
@@ -120,7 +121,9 @@ export const compounds = {
             "1358751-06-0",
             "UNII-9E3TOE5RIZ"
         ],
-        moa: "AMPA PAM",
+        moa: [
+            "AMPA PAM"
+        ],
         class: [
             "Cognition",
             "AMPA"
@@ -154,7 +157,7 @@ export const compounds = {
             "CR-2249",
             "XY-2401"
         ],
-        moa: "NMDA Glycine PAM",
+        moa: ["NMDA Glycine PAM"],
         class: [
             "Cognition"
         ],
@@ -269,7 +272,11 @@ export const compounds = {
             "EDR",
             "Glu-Asp-Arg"
         ],
-        moa: "ERK1/2 Activator",
+        moa: [
+            "ERK1/2 Activator",
+            "HSPA1A Upregulator",
+            "etc."
+        ],
         class: [
             "Cognition",
             "Longevity",
@@ -359,4 +366,42 @@ export const compounds = {
         },
         md: md_pinealon
     },
+    "tropisetron": {
+        name: "Tropisetron",
+        iupac: "[(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl] 1H-indole-3-carboxylate",
+        pubchem_id: "656665",
+        smiles: "CN1C2CCC1CC(C2)OC(=O)C3=CNC4=CC=CC=C43",
+        other_names: [
+            "Navoban",
+            "Novaban",
+            "Tropisetronum",
+            "89565-68-4"
+        ],
+        moa: [
+            "α7 Partial Agonist",
+            "5-HT3 Agonist"
+        ],
+        class: [
+            "Cognition",
+            "Focus",
+            "Antiemetic"
+        ],
+        related: [],
+        interactions: [],
+        md: md_tropisetron,
+        sources: {
+            "1": {
+                title: "Activation and Desensitization of Nicotinic α7-type Acetylcholine Receptors by Benzylidene Anabaseines and Nicotine",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/"
+            },
+            "2": {
+                title: "Chronic Nicotine Cell Specifically Upregulates Functional α4* Nicotinic Receptors",
+                extract: "",
+                sci_ref: "",
+                url: "https://www.jneurosci.org/content/27/31/8202"
+            }
+        }
+    }
 }

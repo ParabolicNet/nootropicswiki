@@ -26,7 +26,7 @@
       {/each}
     {:else}
       {#each results as codename, num}
-          <a title="More details about {compounds[codename].name}" href="details/{codename}"><div class="result-link">{compounds[codename].name} [{compounds[codename].moa}]</div></a>
+          <a title="More details about {compounds[codename].name}" href="details/{codename}"><div class="result-link">{compounds[codename].name} [{#each compounds[codename].moa as moa, i}{#if i != 0}, {/if}{moa}{/each}]</div></a>
       {/each}
     {/if}
     </div>
