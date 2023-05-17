@@ -1,5 +1,5 @@
 <span id="mechanism-of-action"></span>
-## Mechanism of Action
+## Pharmacology
 
 Bromantane is a compound that upregulates dopamine, with effects lasting after discontinuation.
 

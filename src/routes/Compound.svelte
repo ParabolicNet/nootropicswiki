@@ -18,7 +18,7 @@
 
                 {#if compound.moa}
                 <h2>Primary MOA</h2>
-                <p>{compound.moa}</p>
+                <p>{#each compound.moa as moa, i}{#if i != 0}, {/if}{moa}{/each}</p>
                 {/if}
 
                 <h2>Class</h2>

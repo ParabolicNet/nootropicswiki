@@ -23,7 +23,9 @@ Blank entry (for copying):
     other_names: [
         ""
     ],
-    moa: "",
+    moa: [
+        ""
+    ],
     class: [
         ""
     ],
@@ -44,7 +46,9 @@ Example entry:
     other_names: [
         "Brain Compound"
     ], // Optional
-    moa: "method of action here", // Add ? if it is unknown
+    moa: [
+        "method of action here"
+    ], // Add ? as only moa if it is unknown
     class: [
         "Pro-Cognition",
         "Pro-Longevity"
